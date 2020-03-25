@@ -1,0 +1,16 @@
+C:\Users\mrt_b\Desktop\Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\bin\Debug\Kod H Armstrong Sayı v1.0.exe
+C:\Users\mrt_b\Desktop\Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\bin\Debug\Kod H Armstrong Sayı v1.0.pdb
+C:\Users\mrt_b\Desktop\Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod_H_Armstrong_Sayı_v1._0.Form1.resources
+C:\Users\mrt_b\Desktop\Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod_H_Armstrong_Sayı_v1._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.exe
+C:\Users\mrt_b\Desktop\Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.pdb
+E:\1 Github\1 Industryolog\1-IA Kod H CSharp Proje\3 Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.exe
+E:\1 Github\1 Industryolog\1-IA Kod H CSharp Proje\3 Kod H Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\12 Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.exe
+E:\04 - Yazılım\05 - Büyük Projeler\12 Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\12 Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\bin\Debug\Kod H Armstrong Sayı v1.0.exe
+E:\04 - Yazılım\05 - Büyük Projeler\12 Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\bin\Debug\Kod H Armstrong Sayı v1.0.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\12 Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod_H_Armstrong_Sayı_v1._0.Form1.resources
+E:\04 - Yazılım\05 - Büyük Projeler\12 Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod_H_Armstrong_Sayı_v1._0.Properties.Resources.resources
+E:\04 - Yazılım\05 - Büyük Projeler\12 Armstrong Sayı v1.0\Kod H Armstrong Sayı v1.0\obj\x86\Debug\Kod H Armstrong Sayı v1.0.csproj.GenerateResource.Cache
